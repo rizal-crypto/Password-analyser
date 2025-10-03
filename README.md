@@ -85,3 +85,7 @@ feedback_label = tk.Label(root, text="", fg="blue")
 feedback_label.pack(pady=10)
 
 root.mainloop()
+<img width="396" height="332" alt="Screenshot 2025-10-03 122622" src="https://github.com/user-attachments/assets/356f5451-9b62-4fa4-b9b6-d421ffe75a91" />
+<img width="402" height="323" alt="Screenshot 2025-10-03 122640" src="https://github.com/user-attachments/assets/5d16ebcf-eaef-401a-aaab-43d9df5b1998" /><img width="402" height="323" alt="Screenshot 2025-10-03 122701" src="https://github.com/user-attachments/assets/2d5ca5f3-54d0-4dfd-8dad-b82768d0228f" />
+<img width="402" height="323" alt="Screenshot 2025-10-03 122701" src="https://github.com/user-attachments/assets/679b4931-a31a-455a-a99e-5a8ae5ba5754" />
+
